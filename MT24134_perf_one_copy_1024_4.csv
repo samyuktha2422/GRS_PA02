@@ -1,0 +1,13 @@
+
+ Performance counter stats for './MT24134_Part_A2_Client 10 1024':
+
+    16,908,059,603      cycles                                                                
+        22,389,556      branch-misses                                                         
+                36      context-switches                                                      
+
+       9.967054590 seconds time elapsed
+
+       3.555804000 seconds user
+       6.410648000 seconds sys
+
+
